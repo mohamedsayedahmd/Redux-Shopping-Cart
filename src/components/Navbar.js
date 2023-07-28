@@ -14,7 +14,7 @@ export default function NavBar() {
             <MDBNavbarBrand>Navbar</MDBNavbarBrand>
             <span>All Products</span>
             <MDBBtn color='dark'>
-                Cart
+                Cart(0)
             </MDBBtn>
       </MDBContainer>
     </MDBNavbar>
